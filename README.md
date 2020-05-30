@@ -6,6 +6,5 @@
 
 使用微信扫描次二维码，进入小程序也可以得到节点哦！
 
-![](https://github.com/wtzabc123/-/blob/master/screenshots/4.png)
-![](https://github.com/wtzabc123/-/blob/master/screenshots/2.png)
+![](https://github.com/wtzabc123/-/blob/master/screenshots/5.PNG)
 
