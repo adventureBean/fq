@@ -6,5 +6,5 @@
 
 # 使用微信扫描此二维码，进入小程序也可以得到节点哦！
 
-![](https://github.com.cnpmjs.org/wtzabc123/-/blob/master/screenshots/5.PNG)
+![](https://github.com/wtzabc123/-/blob/master/screenshots/5.PNG)
 
